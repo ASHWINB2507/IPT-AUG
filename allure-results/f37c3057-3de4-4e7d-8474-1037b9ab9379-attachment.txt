@@ -1,0 +1,2 @@
+Product count: 50
+Minimum Price: 169

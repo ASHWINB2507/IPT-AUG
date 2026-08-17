@@ -1,0 +1,3 @@
+Product count: 50
+Minimum Price: 169
+Product Name Of Min Price: max

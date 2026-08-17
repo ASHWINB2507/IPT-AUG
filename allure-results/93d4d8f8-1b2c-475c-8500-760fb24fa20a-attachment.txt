@@ -1,0 +1,4 @@
+Product count: 50
+Minimum Price: 153
+Name: Boys Printed Cotton T-Shirt
+Price: Rs.153

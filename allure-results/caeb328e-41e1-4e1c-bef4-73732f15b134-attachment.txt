@@ -1,0 +1,2 @@
+Minimum Price: 153
+Product Title: locator('//li[@class="product-base"]/descendant::div[@class="product-price"]/span[span[@class="product-discountedPrice" and contains(., "153")]or(contains(., "153") and not(@class))]/ancestor::li/descendant::h4[@class="product-product"]).allTextContents()')
