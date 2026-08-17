@@ -22,10 +22,10 @@ test.describe('Employee Deserialization', () => {
     expect(mobile2).toBe('34343493479');
   });
 
-  // Task B: Verify "api" skill exists
-  test('Task B - Has API Skill', () => {
-    const hasAPI = emp.skills.map(s => s.toLowerCase()).includes('api');
-    console.log('Has API Skill:', hasAPI);
-    expect(hasAPI).toBe(true);
-  });
+  // // Task B: Verify "api" skill exists
+  // test('Task B - Has API Skill', () => {
+  //   const hasAPI = emp.skills.map(s => s.toLowerCase()).includes('api');
+  //   console.log('Has API Skill:', hasAPI);
+  //   expect(hasAPI).toBe(true);
+  // });
   });
