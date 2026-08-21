@@ -1,0 +1,7 @@
+Employee Data: {
+  empname: 'Ashwin',
+  empid: 223232,
+  contact: { mobile1: '26352357235', mobile2: '34343493479' },
+  skills: [ 'manual', 'automation', 'mobile', 'api' ]
+}
+Second Mobile: 34343493479
